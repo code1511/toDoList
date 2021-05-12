@@ -3,7 +3,8 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+//this is working as main function
+//index.js is working as main function
 ReactDOM.render(
   <React.StrictMode>
     <App />
